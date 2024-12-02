@@ -7,4 +7,5 @@ Criação de blog usando node e handlebars.
 
 ```
 Node v20.18.0
+Handlebars
 ```
